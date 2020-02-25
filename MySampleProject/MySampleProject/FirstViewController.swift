@@ -13,7 +13,14 @@ class FirstViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Created first view controller")
+        testFunction()
         // Do any additional setup after loading the view.
+    }
+    
+    /// Description New Function Created for test purpose.
+    func testFunction
+    {
+        print("New Function created")
     }
     
 
