@@ -18,7 +18,7 @@ class FirstViewController: UIViewController {
     }
     
     /// Description New Function Created for test purpose.
-    func testFunction
+    func testFunction()
     {
         print("New Function created")
     }
