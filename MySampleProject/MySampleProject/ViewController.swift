@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("Hello World")
         UILABELADDED()
+        CreatedtoTakeStash()
     }
     
     func UILABELADDED()
@@ -22,6 +23,10 @@ class ViewController: UIViewController {
         print("New Label is Added")
     }
 
+    func CreatedtoTakeStash()
+    {
+        print("This is used to take stash")
+    }
 
 }
 
